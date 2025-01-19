@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Bhushan...;Welcome+to+My+Github+Profile!&center=true&size=30&width=500">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Aditya...;Welcome+to+My+Github+Profile!&center=true&size=30&width=500">
   </a>
 </h1>
 
@@ -84,5 +84,5 @@
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityaaaaaaaa1407&theme=radical" /></p>
 <br><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaaaaaaaa1407&show_icons=true&locale=en&layout=compact" alt="adityaaaaaaaa1407" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaaaaaaaa1407&" alt="adityaaaaaaaa1407" /></p>
+
 
